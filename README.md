@@ -1,8 +1,8 @@
 # mip22
 
- <h1 align="center"> mip22 v3.3 </h1>
+ <h1 align="center"> Social-Phish v1 </h1>
  
- <h2 align="center"> mip22 is a advanced phishing tool </h2>
+ <h2 align="center"> Social-Phish is a advanced phishing tool </h2>
  
  <h3 align="center"> 83 default websites, clone any site with manual method, add any site with customize method,  mask link with subdomains, url shortener, audio notice for view the credentials live, music in background etc...  </h3>
 
@@ -35,18 +35,18 @@ On terminal </br>
 ```
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/harshadzalaniya/Social-Phish.git
 ```
 ```diff
-chmod -R 777 mip22 
-```
-
-```diff
-cd mip22
+chmod -R 777 Social-Phish 
 ```
 
 ```diff
-bash mip22.sh
+cd Social-Phish
+```
+
+```diff
+bash Social-Phish.sh
 ```
 
 </br> </br>
@@ -57,19 +57,19 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```diff
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/harshadzalaniya/Social-Phish.git
 ```
 
 ```diff
-chmod -R 777 mip22 
+chmod -R 777 Social.Phish 
 ```
 
 ```diff
-cd mip22 
+cd Social-Phish
 ```
 
 ```diff
-bash mip22.sh
+bash Social-Phish.sh
 ```
 
 </br> </br>
@@ -83,7 +83,7 @@ Feautures and Properties.
 </h3>
 
 <p align="center">
-Mip22 is a modern and advanced cyber security program for computers with Gnu / Linux operating system and mobile phones and tablets with android operating system, for educational purposes.
+Social-Phish is a modern and advanced cyber security program for computers with Gnu / Linux operating system and mobile phones and tablets with android operating system, for educational purposes.
 </p>
 
  
