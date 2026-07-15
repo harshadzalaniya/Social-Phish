@@ -1,15 +1,15 @@
 <?php 
 
 /*
-*  Copyright (c) 2022 Barchampas Gerasimos <makindosxx@gmail.com>.
-*  mip22 is a advanced phishing tool.
+*  Copyright (c) 2022 Barchampas Gerasimos <harshadzalaniya@gmail.com>.
+*  Social-Phish is a advanced phishing tool.
 *
-*  mip22 is free software: you can redistribute it and/or modify
+*  Social-Phish is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU Affero General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
 *  (at your option) any later version.
 *
-*  mip22 is distributed in the hope that it will be useful,
+*  Social-Phish is distributed in the hope that it will be useful,
 *  but WITHOUT ANY WARRANTY; without even the implied warranty of
 *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 *  GNU Affero General Public License for more details.
