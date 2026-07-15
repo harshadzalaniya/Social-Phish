@@ -1,4 +1,4 @@
-# mip22
+# Social-Phish
 
  <h1 align="center"> Social-Phish v1 </h1>
  
