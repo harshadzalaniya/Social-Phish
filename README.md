@@ -87,9 +87,6 @@ Social-Phish is a modern and advanced cyber security program for computers with 
 </p>
 
  
-<img src="sc/sc_new3.png"> <br/> <br/> <br/>
-
- 
 <p>
  
 Details
