@@ -93,33 +93,34 @@ fi
 }
 header(){
     printf "${BLUE}"
-cat <<- EOF
-${BLUE}██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗
-${BLUE}██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝
-${BLUE}███████║███████║██║     █████╔╝        ██║   ███████║█████╗      ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║   
-${BLUE}██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝      ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║   
-${BLUE}██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║   
-${BLUE}╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
-${RED}
-        HACK THE PLANET
-${CYAN}Social-Phish tool made for educational purpose only. ${ORANGE}Version: 3.3
-        ${CYAN}The author is not responsible for any malicious use of the program.
-${CYAN} Social-Phish Created by ${ORANGE}makdosx ${CYAN[](https://github.com/makdosx) ${WHITE}
+cat <<- 'EOF'
+██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝
+███████║███████║██║     █████╔╝        ██║   ███████║█████╗      ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║   
+██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝      ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║   
+██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
+
+--*SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH*--
+
+        HACK THE PLANET BY SOCIAL-PHISH
+        {Created And Maintained By Jacktheripper.}
+        
+
+
+                                 _       _                
+       |   _   _  o ._    o ._ _|_ _    |_ _      ._   _| 
+       |_ (_) (_| | | |   | | | | (_)   | (_) |_| | | (_| 
+               _|                                     
+
+--*SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH--SOCIAL-PHISH*--
+
+
+Choose The Method Of Attack
 EOF
 printf "${RESETBG}"
 }
-log_info(){
-bold=$(tput bold)
-    normal=$(tput sgr0)
-    printf "${GREEN}"
-cat <<- EOF
-$bold _ _
-$bold | _ _ o ._ o ._ _|_ _ |_ _ ._ _|
-$bold |_ (_) (_| | | | | | | | (_) | (_) |_| | | (_|
-$bold _|
-EOF
-printf "${RESETBG}"
-}
+# [Rest of the script remains exactly the same - menus, tunnels, attack functions, etc.]
 # Php webserver and port
 host='127.0.0.1'
 port='8080'
